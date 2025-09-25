@@ -48,7 +48,7 @@
     "@backstage/backend-plugin-api": "backstage:^",
     "@backstage/config": "backstage:^",
     "@backstage/plugin-scaffolder-node": "backstage:^",
-    "@roadiehq/backstage-plugin-argo-cd-backend": "^4.4.0",
+    "@roadiehq/backstage-plugin-argo-cd-backend": "^1.0.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
