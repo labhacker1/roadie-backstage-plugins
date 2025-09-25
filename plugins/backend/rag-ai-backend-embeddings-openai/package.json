@@ -46,7 +46,7 @@
     "@backstage/catalog-client": "backstage:^",
     "@backstage/config": "backstage:^",
     "@langchain/openai": "^0.2.7",
-    "@roadiehq/rag-ai-backend-retrieval-augmenter": "^1.2.0",
+    "@roadiehq/rag-ai-backend-retrieval-augmenter": "^1.1.1",
     "@roadiehq/rag-ai-node": "^0.2.0",
     "winston": "^3.11.0"
   },
